@@ -1,5 +1,0 @@
-AddEventHandler("playerSpawned", function()
-    print("[NV] - Loading Screen Off ")
-    ShutdownLoadingScreen()
-    ShutdownLoadingScreenNui()
-end)
