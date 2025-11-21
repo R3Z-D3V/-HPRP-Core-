@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="537002016"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.24927700" y="-0.22678400" z="-0.00010700"/>
+      <bbMax x="0.24927700" y="0.22931800" z="1.08194200"/>
+      <bsCentre x="0.00000000" y="0.00126700" z="0.54091750"/>
+      <bsRadius value="0.63785090"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>candy_weed_small</name>
+      <textureDictionary>candy_weed</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>candy_weed</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>candy_weed_small</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="537002016"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.99999800" y="-4.99999800" z="-2.50000000"/>
+      <bbMax x="4.99999800" y="4.99999800" z="2.50000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="7.49999800"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>candy_weed_lrg_a</name>
+      <textureDictionary>candy_weed</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>candy_weed</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>candy_weed_lrg_a</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="537002016"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.99999800" y="-4.99999800" z="-2.50000000"/>
+      <bbMax x="4.99999800" y="4.99999800" z="2.50000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="7.49999800"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>candy_weed_lrg_b</name>
+      <textureDictionary>candy_weed</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>candy_weed</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>candy_weed_lrg_a</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="537002016"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.50000000" y="-2.50000000" z="-2.50000000"/>
+      <bbMax x="2.50000000" y="2.50000000" z="2.50000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="4.33012700"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>candy_weed_med_a</name>
+      <textureDictionary>candy_weed</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>candy_weed</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>candy_weed_med_a</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="537002016"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.50000000" y="-2.50000000" z="-2.50000000"/>
+      <bbMax x="2.50000000" y="2.50000000" z="2.50000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="4.33012700"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>candy_weed_med_b</name>
+      <textureDictionary>candy_weed</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>candy_weed</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>candy_weed_med_b</assetName>
+      <extensions/>
+    </Item>
+  </archetypes>
+  <name>candy_weed</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>
